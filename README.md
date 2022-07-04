@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Lopes 
 
-- 👀 Buscando sempre aprender mais
-- 🌱 Eu estou aprendendo HTML,CSS e JavaScript
+- 👀 all day every day 
+- 🌱 entusiasta da programação 
 - 👨‍🦱 Pronome: Ele/Dele
 
 <div>
