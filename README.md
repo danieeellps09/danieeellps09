@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Daniel Lopes 
 
-- 👀 all day every day 
-- 🌱 entusiasta da programação 
-- 👨‍🦱 Pronome: Ele/Dele
+
 
 <div>
   <a href="https://github.com/danieeellps09">
